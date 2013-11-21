@@ -40,5 +40,5 @@ Retranslations:
 
 
 Mime type icons: 
-![text-pdf](32x32/text-pdf.png) ![text-rtf](32x32/text-rtf.png) ![text-sfm](32x32/text-sfm.png) ![text-txt](32x32/text-txt.png)
+![text-pdf](32x32/text-pdf.png) ![text-rtf](32x32/text-rtf.png) ![text-sfm](32x32/text-sfm.png) ![text-txt](32x32/text-txt.png) ![text-ai](32x32/text-ai.png) ![text-ai-collab](32x32/text-ai-collab.png)
 

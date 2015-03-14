@@ -3,8 +3,8 @@ adaptit-tango-icons
 
 Tango icons from the Adapt It project
 
-These are icons that I created for the open source [Adapt It](http://adapt-it.org/) project that follow the [tango icon](http://tango.freedesktop.org/Tango_Desktop_Project) theme guidelines.
-I'm releasing them separately under a Public Domain license, in the off chance that someone finds them useful
+These are icons created for the open source [Adapt It](http://adapt-it.org/) project that follow the [tango icon](http://tango.freedesktop.org/Tango_Desktop_Project) theme guidelines.
+They are released here under a Public Domain license, in the off chance that someone finds them useful
 outside the domain of translation software. Most are specific to translation / adaptation, but there are a few general purpose icons (the MIME type icons specifically).
 
 To get the icon set, you can either fork the code here or download the .zip from the [Project's page](http://eb1.github.io/adaptit-tango-icons/).

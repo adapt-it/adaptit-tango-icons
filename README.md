@@ -7,7 +7,7 @@ These are icons created for the open source [Adapt It](http://adapt-it.org/) pro
 They are released here under a Public Domain license, in the off chance that someone finds them useful
 outside the domain of translation software. Most are specific to translation / adaptation, but there are a few general purpose icons (the MIME type icons specifically).
 
-To get the icon set, you can either fork the code here or download the .zip from the [Project's page](http://eb1.github.io/adaptit-tango-icons/).
+To get the icon set, you can either fork the code here or download the .zip from the [Project's page](http://adapt-it.github.io/adaptit-tango-icons/).
 
 Icons
 -----------

@@ -15,10 +15,10 @@
    id="svg249"
    sodipodi:version="0.32"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="text-txt.svg"
-   inkscape:export-filename="C:\Users\eb1\Documents\GitHub\adaptit-tango-icons\32x32\text-txt.png"
-   inkscape:export-xdpi="60"
-   inkscape:export-ydpi="60"
+   sodipodi:docname="text-usx.svg"
+   inkscape:export-filename="/Users/erik/dev/adaptit-tango-icons/16x16/text-usx.png"
+   inkscape:export-xdpi="32"
+   inkscape:export-ydpi="32"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.1">
   <defs
@@ -257,17 +257,17 @@
      borderopacity="0.32941176"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98901497"
-     inkscape:cx="30.61519"
-     inkscape:cy="12.596464"
+     inkscape:zoom="5.71"
+     inkscape:cx="11.683245"
+     inkscape:cy="22.244523"
      inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1057"
-     inkscape:window-height="759"
-     inkscape:window-x="77"
-     inkscape:window-y="81"
+     inkscape:window-width="1136"
+     inkscape:window-height="688"
+     inkscape:window-x="693"
+     inkscape:window-y="20"
      inkscape:showpageshadow="false"
      inkscape:window-maximized="0" />
   <metadata
@@ -278,7 +278,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>Erik Brommers</dc:title>
@@ -286,12 +286,12 @@
         </dc:creator>
         <dc:source>http://www.adapt-it.org</dc:source>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
         <dc:date>June 8, 2012</dc:date>
         <dc:description>Uses document-new from the tango icon project.</dc:description>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
@@ -426,30 +426,29 @@
      inkscape:label="new"
      style="display:inline">
     <rect
-       style="fill:#5c3566;stroke:#204a87;stroke-width:1.02620053"
+       style="fill:#5c3566;stroke:#c4a000;stroke-width:1.01644039;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3045"
-       width="29.973799"
-       height="13.9738"
-       x="17.513102"
-       y="11.513099" />
+       width="28.983561"
+       height="13.98356"
+       x="18.508219"
+       y="11.508222" />
     <rect
-       style="fill:#3465a4;stroke:#729fcf;stroke-width:0.93746954"
+       style="fill:#edd400;stroke:#fce94f;stroke-width:1.01244402;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3047"
-       width="28.062531"
-       height="12.062533"
-       x="18.468735"
-       y="12.468735" />
+       width="26.987556"
+       height="11.987556"
+       x="19.506222"
+       y="12.506223" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none"
-       x="20.140993"
-       y="22.773394"
-       id="text3049"
-       transform="scale(0.99014754,1.0099505)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none"
+       x="20.566406"
+       y="23"
+       id="text3049"><tspan
          sodipodi:role="line"
-         id="tspan3072"
-         x="20.140993"
-         y="22.773394"
-         style="font-size:11.88177013px;line-height:1.25;font-family:sans-serif">TXT</tspan></text>
+         id="tspan3051"
+         x="20.566406"
+         y="23"
+         style="font-size:12px;line-height:1.25;font-family:sans-serif">USX</tspan></text>
   </g>
 </svg>
